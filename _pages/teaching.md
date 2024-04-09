@@ -21,6 +21,7 @@ pretty_table: true
   </thead>
 </table>
 
+---
 
 ## Supervision
 

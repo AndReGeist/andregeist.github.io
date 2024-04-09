@@ -11,7 +11,7 @@ nav_order: 1
 
 [Link to my GoogleScholar profile](https://scholar.google.com.au/citations?user=JDBDDEgAAAAJ&hl=en)
 
-### Data-driven multibody dynamics
+### Data-driven physics
 
 <div class="publications">
   {% bibliography --group_by none --query @*[dyn=true]* %}
@@ -23,7 +23,7 @@ nav_order: 1
   {% bibliography --group_by none --query @*[des=true]* %}
 </div>
 
-### Robot navigation and control
+### Navigation and control
 
 <div class="publications">
   {% bibliography --group_by none --query @*[nav=true]* %}
