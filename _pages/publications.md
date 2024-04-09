@@ -11,7 +11,7 @@ nav_order: 1
 
 [Link to my GoogleScholar profile](https://scholar.google.com.au/citations?user=JDBDDEgAAAAJ&hl=en)
 
-### Data-driven physics
+### Data-driven multi-body dynamics
 
 <div class="publications">
   {% bibliography --group_by none --query @*[dyn=true]* %}

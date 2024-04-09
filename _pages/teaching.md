@@ -9,6 +9,7 @@ pretty_table: true
 ---
 
 
+
 ## Teaching
 
 <table id="table" data-toggle="table" data-url="{{ '/assets/json/teaching.json' | relative_url }}">
@@ -26,7 +27,5 @@ pretty_table: true
 ## Supervision
 
 - 4 x Master's Thesis Project
-
 - 6 x Semester Thesis Projects
-
 - 5 x Internship Projects

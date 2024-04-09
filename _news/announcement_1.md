@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Excited to join Georg Martius' Autonomous Learning group for my Postdoc! 
-I will focus on enhancing robot simulators for RL.
+I've joined Georg Martius' Autonomous Learning group for a postdoc
