@@ -1,12 +1,31 @@
 ---
-layout: page
+layout: default
 permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+title: Teaching
+description: Teaching Experience.
 nav: true
-nav_order: 6
+nav_order: 3
+pretty_table: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+## Teaching
+
+<table id="table" data-toggle="table" data-url="{{ '/assets/json/teaching.json' | relative_url }}">
+  <thead>
+    <tr>
+      <th data-field="date">Date</th>
+      <th data-field="name">Type</th>
+      <th data-field="description">Description</th>
+    </tr>
+  </thead>
+</table>
+
+
+## Supervision
+
+- 4 x Master's Thesis Project
+
+- 6 x Semester Thesis Projects
+
+- 5 x Internship Projects
