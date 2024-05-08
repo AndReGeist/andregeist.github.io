@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our work :sparkles: _"The Wheelbot: A Jumping Reaction Wheel Unicycle"_ :sparkles:
-has been nominated for the "Best Entertainment and Amusement Paper Award" at IROS 2022
+:sparkles: ["The Wheelbot: A Jumping Reaction Wheel Unicycle"](https://sites.google.com/view/wheelbot) :sparkles:
+has been nominated for an award at IROS 2022

@@ -11,6 +11,12 @@ nav_order: 1
 
 [Link to my GoogleScholar profile](https://scholar.google.com.au/citations?user=JDBDDEgAAAAJ&hl=en)
 
+### Fundamentals
+
+<div class="publications">
+  {% bibliography --group_by none --query @*[bas=true]* %}
+</div>
+
 ### Data-driven multi-body dynamics
 
 <div class="publications">

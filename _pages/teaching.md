@@ -8,19 +8,22 @@ nav_order: 3
 pretty_table: true
 ---
 
-
-
 ## Teaching
 
-<table id="table" data-toggle="table" data-url="{{ '/assets/json/teaching.json' | relative_url }}">
-  <thead>
-    <tr>
-      <th data-field="date">Date</th>
-      <th data-field="name">Type</th>
-      <th data-field="description">Description</th>
-    </tr>
-  </thead>
-</table>
+2024, University of Tübingen (Georg Martius) - **Guest lecturer:
+"Basics of Machine Learning", Ridge regression & MLE**
+
+2024, University of Tübingen (Georg Martius) - **Teaching Assistant:
+"Reinforcement Learning (Proseminar)"**
+
+2023, RWTH Aachen (Prof. Sebastian Trimpe) - **Teaching Assistant: 
+"Computer Science in Mechanical Engineering"**
+
+2023, RWTH Aachen (Prof. Sebastian Trimpe) - **Guest lecturer:
+"Fundamentals of Machine Learning", Learning dynamics with probabilistic models**
+
+2022, RWTH Aachen (Dr. Dominik Baumann) - **Teaching Assistant -
+"Ethics of Artificial Intelligence and Robotics"**
 
 ---
 
